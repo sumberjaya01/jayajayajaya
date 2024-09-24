@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sumberjaya01.github.io/jayajayajaya/sitemap.xml
